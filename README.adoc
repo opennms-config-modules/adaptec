@@ -1,8 +1,8 @@
-# Adaptec
+= Adaptec
 
 OpenNMS configuration for Adaptec devices.
 
-## Installation
+== Installation
 
 .Download and install from GitHub
 [source, bash]
@@ -12,7 +12,8 @@ cd ${HOME}/opennms-config-workspace
 git clone https://github.com/opennms-config-modules/adaptec.git
 ----
 
-### Events
+=== Events
+
 .Install Adaptec events
 [source, bash]
 ----
